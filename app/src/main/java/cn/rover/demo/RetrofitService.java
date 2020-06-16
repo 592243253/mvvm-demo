@@ -12,6 +12,9 @@ import cn.rover.demo.entity.LoginResult;
  */
 public interface RetrofitService {
 
+    /**
+     * 地址是测试地址，外网ping不通
+     */
     String HOST = "http://10.6.152.9:8091/";
 
     /**
