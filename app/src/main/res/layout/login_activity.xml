@@ -70,7 +70,6 @@
                     android:layout_marginEnd="10dp"
                     android:layout_marginRight="10dp"
                     android:layout_toEndOf="@+id/view1"
-                    android:text="18600960135"
                     android:layout_toRightOf="@+id/view1"
                     android:background="@drawable/rover_white_shape"
                     android:gravity="center_vertical"
@@ -121,7 +120,6 @@
                     android:background="@color/ranger_color_blue"
                     android:id="@+id/view2" />
 
-
                 <EditText
                     android:id="@+id/pass_edit"
                     style="@style/Ranger_MSize_GColor"
@@ -133,7 +131,6 @@
                     android:layout_marginRight="10dp"
                     android:layout_toEndOf="@+id/view2"
                     android:layout_toRightOf="@+id/view2"
-                    android:text="123456"
                     android:background="@drawable/rover_white_shape"
                     android:gravity="center_vertical"
                     android:hint="请输入密码"
